@@ -1,0 +1,9 @@
+{
+  "name": "holidays",
+  "version": "0.0.1",
+  "description": "Public Holiday API with i18n",
+  "main": "index.js",
+  "repository": "git@github.com:levin-du/holidays.git",
+  "author": "<wanzhi09@gmail.com>",
+  "license": "MIT"
+}
